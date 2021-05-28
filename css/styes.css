@@ -112,10 +112,17 @@ body {
   line-height: 24px;
   margin-bottom: 10px;
 }
+
+.project-title {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
 .projects-link {
   color: #595959;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 24px;
 }
 
@@ -152,10 +159,6 @@ body {
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
-}
-
-.profession-devider {
-  color: #000000;
 }
 
 .profession-duties {
